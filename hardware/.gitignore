@@ -1,0 +1,22 @@
+# KiCad: lokale/temporäre Dateien
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.lck
+fp-*.tmp
+*.kicad_sch-bak
+*.kicad_sch_old
+*.kicad_pcb2
+*-bak
+*.bak
+_autosave-*
+~*
+
+# Freerouting / Specctra-Zwischendateien
+*.dsn
+*.ses
+*.rules
+temp-freerouting.*
+
+# Fertigungsausgaben (bei Bedarf entfernen, falls Gerber mit versioniert werden sollen)
+production/
