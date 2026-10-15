@@ -16,5 +16,8 @@ Die Links zeigen auf Hersteller- oder Distributorseiten; bei einer neueren Revis
 |---|---|---|---|---|
 | Kabel PeriNode24 Motherboard -> Panel | XENTERIO | Kabel zwischen Motherboard und Panel | X-PA-CV-BLK300-06 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-buchsenleiste-mit-30cm-kabel-6-polig) |
 | Stiftleiste PeriNode24 Motherboard -> Panel | XENTERIO | Stiftleiste zwischen Motherboard und Panel | X-PA-CV-SLA-06 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-stiftleiste-90-grad-6-polig) |
-| Kabel PeriNode24 Motherboard -> Panel | XENTERIO | Kabel zwischen Motherboard und Panel | X-PA-CV-BLK300-02 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-buchsenleiste-mit-30cm-kabel-2-polig) |
-| Stiftleiste PeriNode24 Motherboard -> Panel | XENTERIO | Stiftleiste zwischen Motherboard und Panel | X-PA-CV-SLG-02 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-stiftleiste-gerade-2-polig) |
+| Kabel PeriNode24 Motherboard -> LED | XENTERIO | Kabel zwischen Motherboard und Panel | X-PA-CV-BLK300-02 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-buchsenleiste-mit-30cm-kabel-2-polig) |
+| Stiftleiste PeriNode24 Motherboard -> LED | XENTERIO | Stiftleiste zwischen Motherboard und Panel | X-PA-CV-SLG-02 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-stiftleiste-gerade-2-polig) |
+| Kabel PeriNode24 Motherboard -> Schalter | XENTERIO | Kabel zwischen Motherboard und Panel | X-PA-CV-BLK300-03 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-buchsenleiste-mit-30cm-kabel-3-polig) |
+| Stiftleiste PeriNode24 Motherboard -> Schalter | XENTERIO | Stiftleiste zwischen Motherboard und Panel | X-PA-CV-SLG-03 | [Link](https://wittko.eu/platinen-steckverbinder-serie-cv-stiftleiste-gerade-2-polig) |
+
