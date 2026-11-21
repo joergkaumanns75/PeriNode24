@@ -777,13 +777,42 @@
       {
         "filename": "perinode24.kicad_sch",
         "name": "perinode24",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "89ca14cc-c596-57db-8cea-7c87ea782344"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "89ca14cc-c596-57db-8cea-7c87ea782344",
+      "perinode24"
+    ],
+    [
+      "063d24e2-c0ed-5e1c-bd61-e591e1c29003",
+      "Ladekanal 1"
+    ],
+    [
+      "bad07d25-70c1-5e8c-9a42-7e7d31da1828",
+      "Ladekanal 2"
+    ],
+    [
+      "a08da756-28f3-5057-aadf-deaa13377ce7",
+      "Ladekanal 3"
+    ],
+    [
+      "c68cb269-2f02-561d-969b-045c5ed46872",
+      "Ladekanal 4"
+    ],
+    [
+      "f73e92ff-3d2c-597a-96dc-39ece470e0b2",
+      "Ladekanal 5"
+    ],
+    [
+      "fa02c16b-f91d-56c4-ae4a-732a13e86bc9",
+      "Ladekanal 6"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
