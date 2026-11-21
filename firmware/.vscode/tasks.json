@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Host-Simulation (12 h Laden, ohne Hardware)",
+      "type": "shell",
+      "command": "g++ -std=gnu++17 -O2 -Wall -Itools/host_sim/stubs -Iinclude -o .pio/host_sim tools/host_sim/sim.cpp && .pio/host_sim 12",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": ["$gcc"],
+      "group": "test"
+    },
+    {
+      "label": "Weboberfläche mit Testdaten (http://127.0.0.1:8765)",
+      "type": "shell",
+      "command": "python3 tools/ui_mock.py include/webui.h .pio/ui_posts.log",
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

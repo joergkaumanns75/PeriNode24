@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "perinode24")(type "KiCad")(uri "${KIPRJMOD}/perinode24.kicad_sym")(options "")(descr "Projektsymbole Perinode24"))
+)
